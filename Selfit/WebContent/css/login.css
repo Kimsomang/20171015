@@ -1,0 +1,92 @@
+/* 로그인 Text-Bar CSS */
+input.tb_login {
+	width: 400px; 
+	height: 50px; 
+	font-size: large;
+}
+
+/* 로그인 Button CSS */
+input.bt_login {
+	margin: 10px;
+	width: 120px;
+	height: 120px;
+	font-size: large; 
+	margin-left: 10px;
+}
+
+/* 로그인 view a태그 CSS */
+a {
+	font-size: large;
+	font-weight: bold;
+	color: black;
+}
+
+/* 로그인 view span태그 CSS */
+span.msg_s {
+	color: red;
+	font-size: small;
+	margin-top: 5px;
+}
+
+span.msg_m {
+	color: red;
+	font-size: medium;
+	margin-top: 20px;
+}
+
+span.msg_l {
+	color: red;
+	font-size: large;
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+/* 로그인 view div태그 CSS */
+div.frame {
+ 	width: 545px;
+	height: auto;
+	padding: 10px;
+}
+
+div.tb_login {
+	margin-top: 10px;
+}
+
+/* 아이디 찾기 div CSS */
+div.idfind_frame {
+	margin-top: 10px;
+}
+
+div.idfind {
+	margin-top: 20px;
+}
+
+/* 비밀번호 찾기 div CSS */
+div.pwfind_frame {
+	margin-top: 10px;
+}
+
+div.pwfind {
+	margin-top: 20px;
+}
+
+/* 아이디 찾기 hr CSS */
+hr.idfind_1 {
+	width: 500px;
+	margin-top: 10px;
+}
+
+hr.idfind_2 {
+	width: 500px;
+	margin-top: 30px;
+}
+
+hr.pwfind_1 {
+	width: 650px;
+	margin-top: 10px;
+}
+
+hr.pwfind_2 {
+	width: 650px;
+	margin-top: 30px;
+}

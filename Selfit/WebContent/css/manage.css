@@ -1,0 +1,172 @@
+#hotContents {
+	clear: both;
+	width: 1355px;
+	height: 400px;
+	margin: 5px auto;
+	text-align: center;
+}
+
+#memberTable {
+	margin: 5px auto;
+	display: inline-block;
+	vertical-align: middle;
+	overflow: auto;
+	width: 1500px;
+	height: 500px;
+}
+
+#bodyTable {
+	margin: 5px auto;
+	display: inline-block;
+	vertical-align: middle;
+	overflow: auto;
+	width: 1300px;
+	height: 250px;
+}
+
+#bodyDiv {
+	margin-left: 400px;
+	text-align: center;
+}
+
+#brandTable {
+	margin: 5px auto;
+	display: inline-block;
+	vertical-align: middle;
+	overflow: auto;
+	width: 1300px;
+	height: 250px;
+}
+
+#brandDiv {
+	margin-left: 400px;
+	text-align: center;
+}
+
+#contactTable {
+	margin: 5px auto;
+	display: inline-block;
+	vertical-align: middle;
+	overflow: auto;
+	width: 1000px;
+	height: 500px;
+}
+
+#categoryTable {
+	margin: 5px auto;
+	display: inline-block;
+	vertical-align: middle;
+	overflow: auto;
+	width: 1300px;
+	height: 250px;
+}
+
+#categoryDiv {
+	margin-left: 300px;
+	text-align: center;
+}
+
+#updateBodyForm {
+	margin: 5px auto;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#updateBrandForm {
+	margin: 5px auto;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#updateContentForm {
+	margin: 5px auto;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#updateMemberForm {
+	margin-left: 400px;
+	display: inline-block;
+	vertical-align: middle;
+	overflow: auto;
+	width: 1000px;
+	height: 500px;
+}
+
+div.tdStyle {
+	float: Left;
+	margin: 5px auto;
+}
+
+div.trStyle {
+	clear: both;
+	margin: 5px 10px;
+}
+
+div.contentsColumn {
+	width: 200px;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	text-decoration: none;
+}
+
+div.contentsColumn2 {
+	width: 300px;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	text-decoration: none;
+}
+
+div.textSize {
+	font-size: x-large;
+}
+
+img.weeklyBest {
+	width: 200px;
+	height: 300px;
+	margin: 0 5px;
+}
+
+input.tb_normal {
+	width: 400px;
+	height: 50px;
+	font-size: x-large;
+}
+
+input.bt_size {
+	width: 80px;
+	height: 50px;
+	font-size: large;
+}
+
+span.error_msg {
+	color: red;
+	font-size: medium;
+}
+
+.table_small {
+	table-layout: fixed;
+	width: 80px;
+}
+
+.table_normal {
+	table-layout: fixed;
+	width: 100px;
+}
+
+.table_large {
+	table-layout: fixed;
+	width: 200px;
+}
+
+.table_larger {
+	table-layout: fixed;
+	width: 300px;
+}
+
+.table_x-large {
+	table-layout: fixed;
+	width: 900px;
+}

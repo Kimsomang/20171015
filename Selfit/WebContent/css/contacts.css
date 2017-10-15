@@ -1,0 +1,50 @@
+#contactContents {
+	clear: both;
+	margin-left: 400px;
+	text-align: left;
+}
+
+.tdStyle {
+	float: Left;
+	margin: 5px 10px;
+}
+
+.textSize {
+	font-size: x-large;
+	font-weight: bold;
+}
+
+div.title {
+	font-size: x-large;
+}
+
+input.tb_normal {
+	width: 400px;
+	height: 50px;
+	font-size: x-large;
+}
+
+input.tb_phone1 {
+	width: 70px; 
+	height: 50px; 
+	font-size: x-large;
+	color: #E3E3E3;
+}
+
+input.tb_phone2 {
+	width: 140px; 
+	height: 50px; 
+	font-size: x-large;
+	color: #E3E3E3;
+}
+
+input.bt_size {
+	width: 100px;
+	height: 50px;
+	font-size: large;
+}
+
+span.error_msg {
+	color: red;
+	font-size: medium;
+}

@@ -1,0 +1,58 @@
+/* 공통 스타일 : css/common.css : 네비게이터 전용 */
+
+/* 네비게이션 css */
+input.navi{
+	width: 135px;
+	height: 45px;
+}
+
+
+/* 아이디별 네비게이션 */
+#header {
+	width: 1366px;
+	text-align: center;
+}
+
+#header_navi {
+	padding: 5px;
+	width: 1366px;
+	text-align: left;
+	background-color: #FF3334;
+}
+
+#contents {
+	width: 1366px;
+	height: 570px;
+	text-align: center;
+}
+
+#footer {
+	width: 1366px;
+	height: 50px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+#logInfo {
+	width: 450px;
+	height: 170px;
+	margin: 10px 0;
+	float: left;
+}
+
+#banner {
+	width: 900px;
+	height: 170px;
+	margin: 10px 5px;
+	float: left;
+}
+
+span.interval {
+	margin: 0 30px;
+}
+
+/* 읽기전용 항목 설정 */
+input:read-only {
+	background-color: #EDEDDF;
+}
+

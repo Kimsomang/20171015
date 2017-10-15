@@ -1,0 +1,117 @@
+/* 회원가입 틀(frame) */
+div#frame {
+	width: 800px;
+	height: 950px;
+	margin: 0 auto;
+}
+
+/* 회원가입 Text-Bar CSS */
+input.tb_signin_xxs {
+	width: 70px; 
+	height: 50px; 
+	font-size: x-large;
+	color: #E3E3E3;
+}
+
+input.tb_signin_xs {
+	width: 150px; 
+	height: 50px; 
+	font-size: x-large;
+	color: #E3E3E3;
+}
+
+input.tb_signin_s {
+	width: 300px; 
+	height: 50px; 
+	font-size: x-large;
+	color: #E3E3E3;
+}
+
+input.tb_signin_r {
+	width: 400px; 
+	height: 50px; 
+	font-size: x-large;
+	color: #E3E3E3;
+}
+
+input.tb_signin_l {
+	width: 500px; 
+	height: 50px; 
+	font-size: x-large;
+	color: #E3E3E3;
+}
+
+/* 내 정보 보기 Text-Bar CSS */
+input.tb_mypage_xxs {
+	width: 70px; 
+	height: 50px; 
+	font-size: x-large;
+	color: black;
+}
+
+input.tb_mypage_xs {
+	width: 150px; 
+	height: 50px; 
+	font-size: x-large;
+	color: black;
+}
+
+input.tb_mypage_s {
+	width: 300px; 
+	height: 50px; 
+	font-size: x-large;
+	color: black;
+}
+
+input.tb_mypage_r {
+	width: 400px; 
+	height: 50px; 
+	font-size: x-large;
+	color: black;
+}
+
+input.tb_mypage_l {
+	width: 500px; 
+	height: 50px; 
+	font-size: x-large;
+	color: black;
+}
+
+/* 회원가입 Radio-Box CSS */
+input.rb_signin {
+	width: 15px; 
+	height: 15px; 
+}
+
+/* 회원가입 Button CSS */
+input.bt_post {
+	width: 150px;
+	height: 40px;
+	font-size: medium;
+}
+
+input.bt_footer {
+	width: 100px;
+	height: 40px;
+	font-size: medium;
+	margin-right: 15px;
+}
+
+input.bt_footer2 {
+	width: 130px;
+	height: 40px;
+	font-size: medium;
+	margin-right: 15px;
+}
+
+/* 회원가입 부가설명 CSS */
+font.detail {
+	color: blue;
+	font-size: medium;
+}
+
+/* 회원가입 오류메세지 CSS */
+span.error_msg {
+	color: red;
+	font-size: medium;
+}

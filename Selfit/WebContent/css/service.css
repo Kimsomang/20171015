@@ -1,0 +1,81 @@
+div.checkbox{
+	min-width: 150px;
+	line-height: 30px;
+	vertical-align: middle;
+	border: 1px solid #e0e0e0;
+}
+
+div.left{
+	float: left;
+}
+
+div.right{
+	float: left;
+}
+
+div.wrapper{
+	width: 800px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	overflow: hidden;
+	clear: both;
+}
+
+div.result_header{
+	margin-top: 10px;
+	height: 30px;
+	font-size: 20px;
+	background-color: #e0e0e0;
+	border: 1px solid #e0e0e0;
+}
+
+div.result_detail{
+	border: 1px solid #e0e0e0;
+	display: none;
+}
+
+div.result_lineItem{
+	height: 20px;
+	margin: 2px auto;
+}
+
+/* 버튼관련 */
+input.bt_type1 {
+	width: 120px;
+	height: 40px;
+	font-size: 15px;
+}
+
+input.bt_search {
+	width: 46px;
+	height: 46px;
+	font-size: 15px;
+}
+
+/* 텍스트박스 관련 */
+input.tb_search{
+	width: 500px;
+	height: 40px;
+	font-size: 15px;
+}
+
+/* span 관련 */
+span.warning{
+	color: red;
+	font-size: medium;
+}
+
+/* 김소망 추가분: 핫아이템조회 */
+#hotContents {
+	clear: both;
+	width: 1355px;
+	height: 400px;
+	margin: 5px auto;
+	text-align: center;
+}
+
+img.weeklyBest {
+	width: 200px;
+	height: 300px;
+	margin: 0 5px;
+}
